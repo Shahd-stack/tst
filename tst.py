@@ -1,3 +1,2 @@
 #tst file
 # ----
-print("kkk")
